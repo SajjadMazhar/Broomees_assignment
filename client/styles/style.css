@@ -116,20 +116,11 @@ form .input-field {
     font-size: 0.75rem;
 }
 
-.form-box a {
-    color: #00bcd4;
-    text-decoration: none;
-}
 
 .form-box a:hover {
     text-decoration: underline;
 }
 
-form :where(.forgot-pass-link, .policy-text) {
-    display: inline-flex;
-    margin-top: 13px;
-    font-size: 0.95rem;
-}
 
 form button {
     width: 100%;
