@@ -2,7 +2,7 @@
 
 ## server
 make sure you have PostgreSQL installed in your machine.
-- open terminal in server directory
+- open terminal in /server directory
 - do,
 ```bash
 $ npm install
@@ -16,7 +16,7 @@ $ npm run dev # to run it in dev environment
 
 ## client
 
-- open another terminal in client directory
+- open another terminal in /client directory
 - do,
 ```bash
 $ npm install -g serve
